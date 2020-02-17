@@ -7,12 +7,3 @@ api: 3.0.0
 author: M4nt0s
 description: Walk over a block for special powers.
 website: Cooming soon....
-commands:
- example:
-  description: Example command
-  usage: "Usage: /example"
-  permission: exampleplugin.command.example
-permissions:
- exampleplugin.command.example:
-  description: "Allows the user to run the example command"
-  default: true
